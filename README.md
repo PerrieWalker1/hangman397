@@ -18,5 +18,12 @@ Shows basic components of a hangman setup.
 A progression of milestone_2
 
 - Introduces two functions
-- The 'ask_for_input' will ask the user to guess a letter repeatablly until thier input is validated, that it is a single letter character.
+- The 'ask_for_input' asks the user to guess a letter repeatablly until thier input is validated, that it is a single letter character.
 - The 'check_guess' function checks if the user's guess, a single letter is in the word 
+
+## milestone_4
+
+Builds on the previous two milestones, incorprating attributes and functinoality into a class.
+
+- Creates a Hangman class
+
