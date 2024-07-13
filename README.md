@@ -27,3 +27,9 @@ Builds on the previous two milestones, incorprating attributes and functinoality
 
 - Creates a Hangman class
 
+## milestone_5
+
+The culmination of the previous milestones
+
+- Uses the Hangman class from milestone_4
+- Playgame function creates class object and starts the game
